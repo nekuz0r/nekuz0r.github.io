@@ -10,6 +10,7 @@ title: Leandre `nekuz0r` Gohy
         <header>
           <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           <p class="date">{{ post.date | date_to_string }}</p>
+          {{ post.excerpt }}
         </header>
       </article>
     </li>
