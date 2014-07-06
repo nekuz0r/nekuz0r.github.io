@@ -7,5 +7,7 @@ title: Permier post :)
 # Premier post
 
 Ceci est mon premier post :) 
-{{ excerpt_separator }}
+
+<!-- more -->
+
 Je suis heureux :p

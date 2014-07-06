@@ -7,6 +7,8 @@ markdown: redcarpet
 redcarpet:
   extensions: [tables]
   
+excerpt_separator: <!-- more -->
+  
 title: Leandre `nekuz0r` Gohy
 author:
   name: Leandre Gohy
